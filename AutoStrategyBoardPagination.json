@@ -7,5 +7,6 @@
   "ApplicableVersion": "any",
   "DalamudApiLevel": 15,
   "LoadPriority": 0,
+  "IconUrl":"https://raw.githubusercontent.com/Rowsai/AutoStrategyBoardPagination/main/images/icon.png",
   "Punchline": "Battle-log-triggered Strategy Board pagination."
 }
