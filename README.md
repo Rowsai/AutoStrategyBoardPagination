@@ -1,6 +1,6 @@
 # AutoStrategyBoardPagination
 
-Dalamud API 15 / .NET 10 用。バトルログの文字列をトリガーに、保存済みのストラテジーボードを順次表示します。
+バトルログの文字列をトリガーに、保存済みのストラテジーボードを順次表示します。
 
 ## コマンド
 
@@ -17,10 +17,6 @@ Dalamud API 15 / .NET 10 用。バトルログの文字列をトリガーに、�
 ## ビルド
 
 `.NET 10 SDK` を入れた環境で `dotnet build -c Release` を実行します。SDK が release zip を生成しない環境では `bin/Release/net10.0/` の DLL と JSON を同じ zip に含めてください。
-
-## アイコン
-
-`images/icon.png` は 512×512 の透過 PNG です。Dalamud は開発プラグインの DLL と同じ場所にある `images/icon.png` をプラグインアイコンとして読み込みます。本リリース zip にも同梱されます。カスタム／公開リポジトリで配布する場合は、そのリポジトリの manifest の `IconUrl` に公開済みのこの画像の HTTPS URL を設定してください。
 
 ## 注意
 
