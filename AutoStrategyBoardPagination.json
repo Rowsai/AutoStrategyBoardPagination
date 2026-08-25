@@ -1,0 +1,11 @@
+{
+  "Author": "AutoStrategyBoardPagination contributors",
+  "Name": "AutoStrategyBoardPagination",
+  "InternalName": "AutoStrategyBoardPagination",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Battle-log-triggered Strategy Board pagination.",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "LoadPriority": 0,
+  "Punchline": "Battle-log-triggered Strategy Board pagination."
+}
